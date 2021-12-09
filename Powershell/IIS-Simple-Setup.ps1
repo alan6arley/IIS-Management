@@ -1,4 +1,6 @@
-﻿import-module ServerManager
+﻿# Run in a new empty server to setup your IIS Web Server for .NET and .NetCore apps.
+
+import-module ServerManager
 Add-WindowsFeature `
 Web-Http-Redirect, `
 Web-Default-Doc, `
