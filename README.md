@@ -1,5 +1,7 @@
-# Project Name
-> Short text about what your product does.
+# IIS Management
+> In this repo i'll store scripts and other information that might useful to perform IIS tasks, this repo also includes a sample website that can be used for testing purposes
+
+> Landing-Page original code can be found at [tailwindtoolbox](https://github.com/tailwindtoolbox/Landing-Page) repo.
 
 ![](/images/Result.png)
 
